@@ -6,7 +6,44 @@
 +__|__|__+
 
 
+### In poultry farming, rearing and management of fowls are done for two purposes-
+
+    1.Production of the eggs.
+    2.Production of meat or flesh.
+
+#### Indian breeds - Aseel, Busra, Chittagong, Ghagus, etc.
+
+Other than broilers and layers chicken farming models in poultry farming we fit the farming into a village low scale Hen Farm.
+AI comes here to protect the chickens from wielding animals and take care of chicken like a village farmer.
+
 # HEN Farming
+
+
+
+## Good housing conditions for poultry birds includes 
+    -avoiding overcrowding
+    -good ventilation 
+    -appropriate lighting
+    -maintenance of a clean, dry and hygienic environment
+    -proper drainage to prevent water-logging
+    -maintaining optimum temperature
+    -spreading litter on the floor of the poultry houses
+    -regular cleaning of the bird wastes
+    -protection from predators
+    -separate coops for birds of different ages
+
+
+## proteting 
+Identifi wield animals and do prevention.
+Idenrifi decieses.
+
+### common diseases in poultry are -
+
+   - Bacterial - cholera, pullorum disease, etc
+   - Viral - Ranikhet disease, fowl pox, bird flu, etc.
+   - Protozoal - bloody diarrhoea, etc.
+   - Fungal - candidiasis or thrush brooder diseases, etc.
+
 
 ### Parameters to control
 - Temperature
@@ -22,4 +59,5 @@
 ### Hardware required
 
 -ESP32 Camera Development with OV2640 Camera Module  or MAX7800 fthr board
+
 -Temperature sensor
