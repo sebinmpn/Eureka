@@ -61,5 +61,7 @@ Idenrifi decieses.
 -ESP32 Camera Development with OV2640 Camera Module  or MAX7800 fthr board
 
 -Temperature sensor
+
 -A system to measure weight
+
 -identify by sound
