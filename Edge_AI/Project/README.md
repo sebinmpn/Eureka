@@ -5,13 +5,14 @@
 |  ____  |
 +__|__|__+
 
+
 # HEN Farming
 
-### Parameters to cntroll
-- Temparature
+### Parameters to control
+- Temperature
 - Humidity
 - Airflow
 - Water
 - Food
-  - netitions
+  - petitions
 -Disease
