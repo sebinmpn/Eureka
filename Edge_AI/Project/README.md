@@ -17,6 +17,7 @@ Other than broilers and layers chicken farming models in poultry farming we fit 
 AI comes here to protect the chickens from wielding animals and take care of chicken like a village farmer.
 
 # HEN Farming
+[20201005_094827_03](https://github.com/sebinmpn/Eureka/assets/109204179/0c62241e-ccff-4d66-882f-83bd8e7198cd)
 
 
 
