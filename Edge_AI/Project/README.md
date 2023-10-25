@@ -62,6 +62,9 @@ Idenrifi decieses.
 
 -Temperature sensor
 
+-XIAO ESP32S3
+(-RP2040  may be for TinyML)
+
 -A system to measure weight
 
 -identify by sound
