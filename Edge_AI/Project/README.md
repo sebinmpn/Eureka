@@ -34,7 +34,7 @@ AI comes here to protect the chickens from wielding animals and take care of chi
     -separate coops for birds of different ages
 
 
-## proteting 
+## protecting 
 Identifi wield animals and do prevention.
 Idenrifi decieses.
 
