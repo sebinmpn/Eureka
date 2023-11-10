@@ -6,11 +6,13 @@
 ### Data is transferred using SPI communication and controls the slave processors from the master.
 A trained model is run in the slave microcontrollers it will produse output for data the feed by the master.
 
-ESP32 will be the entry point and rp2040 will process data behind the system.
+####ESP32 will be the entry point and rp2040 will process data behind the system.
 
 ![Alt Text](https://github.com/sebinmpn/Eureka/blob/main/micropython/Project/rp2040im1.jpg)
 
 # Fitting a Pytorch model in Micropython.
-* converting all numeric into 32 bit number space
-* single clock mathematical operations are only using
+## * converting all numeric into 32 bit number space
+## * single clock mathematical operations are only using
+
+
 ![Alt Text](https://github.com/sebinmpn/Eureka/blob/main/micropython/Project/rp2040im2)
