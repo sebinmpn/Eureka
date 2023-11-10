@@ -12,3 +12,4 @@ ESP32 will be the entry point and rp2040 will process data behind the system.
 # Fitting a Pytorch model in Micropython.
 * converting all numeric into 32 bit number space
 * single clock mathematical operations are only using
+![Alt Text](https://github.com/sebinmpn/Eureka/blob/main/micropython/Project/rp2040im1.jpg)
